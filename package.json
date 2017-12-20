@@ -20,5 +20,10 @@
   "license": "MIT",
   "devDependencies": {
     "jsdoc": "3.4.3"
+  },
+  "dependencies": {
+    "commander": "^2.9.0",
+    "express": "^4.14.0",
+    "js-yaml": "^3.7.0"
   }
 }
